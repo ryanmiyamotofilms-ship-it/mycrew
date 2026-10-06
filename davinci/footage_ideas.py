@@ -30,7 +30,7 @@ IDEAS = [
     ("Reverse angle", "Same beat from the opposite side of the line. Emergency fix for a bad take."),
     ("Time passing", "Clouds, traffic, shadow moving, clock. Lets you compress a chunk of the scene."),
     ("Exit / button shot", "The last thing left behind after the subject leaves. Ends the sequence cleanly."),
-    ("Hoe opener: club legacy", "Molokai Hoe opener. Between the first race and then came she'll vaa, talk about the pretty fierce legacy between "
+    ("Club legacy", "Between the first race and then came she'll vaa, talk about the pretty fierce legacy between "
                     "local clubs throughout the state that pushed the sport of outrigger canoe paddling globally "
                     "... then came Tahiti."),
 ]
